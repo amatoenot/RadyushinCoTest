@@ -1,0 +1,9 @@
+{
+    "name": "sergey/task1",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
